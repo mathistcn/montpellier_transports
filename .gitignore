@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.pyc
+
+# Données GTFS (gros fichiers)
+data/urbain/GTFS.zip
+data/suburbain/GTFS.zip
+
+# IDE files
+.vscode/
+*.swp

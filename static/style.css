@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#map {
+    border: 2px solid #333;
+    margin-bottom: 20px;
+}
+
+#schedule {
+    max-width: 500px;
+}
+
+#stop-schedule li {
+    margin-bottom: 5px;
+}
